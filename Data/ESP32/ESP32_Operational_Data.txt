@@ -1,0 +1,5 @@
+STATE 0 : LED OFF : 49.5 mA, 0.2475 Watts
+STATE 1 : LED ON : 50.7mA 0.2535 Watts
+STATE 2 : LED Flashing : 38.750 mA, 0.19375 Watts
+Light Sleep: 1.283 mA, 0.006415 Watts
+Deep Sleep: 0.0120 mA, 0.000006 Watts
